@@ -1,0 +1,82 @@
+const data = [
+{
+	'date':'2017.05.16',
+	'calories':1900,
+	'carbohydrates':1300,
+	'proteins':580,
+	'fats':420
+},
+{
+	'date':'2017.05.17',
+	'calories':1500,
+	'carbohydrates':900,
+	'proteins':400,
+	'fats':150
+},
+{
+	'date':'2017.05.18',
+	'calories':1700,
+	'carbohydrates':1200,
+	'proteins':560,
+	'fats':380
+},
+{
+	'date':'2017.05.19',
+	'calories':2000,
+	'carbohydrates':1600,
+	'proteins':600,
+	'fats':400
+},
+{
+	'date':'2017.05.20',
+	'calories':1800,
+	'carbohydrates':1400,
+	'proteins':600,
+	'fats':200
+},
+{
+	'date':'2017.05.21',
+	'calories':1900,
+	'carbohydrates':1300,
+	'proteins':580,
+	'fats':420
+},
+{
+	'date':'2017.05.22',
+	'calories':1500,
+	'carbohydrates':900,
+	'proteins':400,
+	'fats':150
+},
+{
+	'date':'2017.05.23',
+	'calories':1700,
+	'carbohydrates':1200,
+	'proteins':560,
+	'fats':380
+},
+{
+	'date':'2017.05.24',
+	'calories':2000,
+	'carbohydrates':1600,
+	'proteins':600,
+	'fats':400
+},
+{
+	'date':'2017.05.25',
+	'calories':1800,
+	'carbohydrates':1400,
+	'proteins':600,
+	'fats':200
+},
+{
+	'date':'2017.05.26',
+	'calories':1700,
+	'carbohydrates':1000,
+	'proteins':300,
+	'fats':200
+},
+
+]
+
+export default data
