@@ -1,5 +1,6 @@
 import React from 'react'
 import {LineChart, XAxis} from 'recharts'
+
 class Slider extends React.Component {
 	render() {
 		const {setQuery} = this.props
